@@ -1,6 +1,7 @@
 # JLPT(單字)
 
 N5～N4 日文單字與漢字的每日學習 App。純前端的 PWA，不需要後端，可以安裝到手機主畫面，離線也能使用。
+link : https://chekaikaikai.github.io/JLPT_V2/
 
 ## 功能
 
